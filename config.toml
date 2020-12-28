@@ -1,0 +1,69 @@
+baseURL = "https://objective-wright-59fd86.netlify.app"
+languageCode = "it"
+defaultContentLanguage = "it"
+title = "Camelia"
+theme = "hugo-coder"
+googleAnalytics = ""
+disqusShortname = ""
+enableRobotsTXT =  true
+
+[params]
+brand = "Camelia"
+description = "Camelia è il podcast di Giorgio Di Maurizio e Claudio Stoduto sulla società attuale."
+author = "Camelia Podcast"
+info = "Camelia è il podcast di Giorgio Di Maurizio e Claudio Stoduto sulla società attuale."
+dateformat = "2 January 2006"
+keywords = "podcast,podcast italia, camelia podcast, claudio stoduto podcast, podcast giorgio di maurizio,giorgio di maurizio,claudio stoduto"
+avatarurl = "images/fav.jpg"
+favicon_32 = "images/fav.jpg"
+favicon_16 = "images/fav.jpg"
+footercontent = "Camelia Podcast"
+hidecredits = true
+hidecopyright = false
+rtl = false
+math = true
+images = ["/images/foto.jpg"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params.publisher]
+    name = "Camelia Podcast"
+
+    [params.publisher.logo]
+      url = "/images/foto.jpg"
+      width = 120
+      height = 120
+
+    [params.logo]
+      url = "/images/foto.jpg"
+      width = 120
+      height = 120
+
+    [params.image]
+      url = "/images/foto.jpg"
+      width = 600
+      height = 600
+
+[menu]
+[[menu.main]]
+    identifier = "Chi siamo"
+    name = "Chi siamo"
+    url = "/chisiamo/"
+    weight = 1
+
+ [[menu.main]]
+    name = "Puntate"
+    weight = 2.0
+    url = "/puntate/"
+    
+
+
+# Social links
+[[params.social]]
+    name = "Telegram"
+    icon = "fab fa-telegram"
+    weight = 6
+    url = "https://t.me/ilrompiscatole"
+    
