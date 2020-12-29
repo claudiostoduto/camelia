@@ -2,8 +2,8 @@
 title: "Chi siamo"
 ---
 
-Ci siamo conosciuti di persona in un lontano Mobile World Congress e da quel momento ci rompiamo le scatole a vicenda quasi ogni giorno. 
+Giorgio e Claudio si ritrovano in un orto botanico circondati da camelie rosse e quale posto migliore per aprirsi e confrontarsi su svariati argomenti. 
 
-Camelia vuole essere quella ventata di aria fresca e di novità che nel mondo del podcast. Un'analisi sulla società moderna e su ciò che tutti noi viviamo quotidianamente.
+Supportaci con una recensione ❤️
 
 *It's Camelia Time* 😊 
