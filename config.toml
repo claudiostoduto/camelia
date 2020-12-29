@@ -63,7 +63,7 @@ images = ["/images/foto.jpg"]
 # Social links
 [[params.social]]
     name = "Telegram"
-    icon = "fab fa-telegram"
+    icon = "fab fa-podcast"
     weight = 6
-    url = "https://t.me/ilrompiscatole"
+    url = "https://anchor.fm/cameliapodcast"
     
